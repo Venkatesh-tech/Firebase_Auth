@@ -12,7 +12,8 @@ class SignIn extends Component {
   };
 
   handleSubmit = (e) => {
-    this.setState({});
+    e.preventDefault();
+    console.log(this.state);
   };
 
   render() {
