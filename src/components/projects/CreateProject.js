@@ -32,7 +32,7 @@ class CreateProject extends Component {
             <label htmlFor="content">Project Content</label>
             <textarea
               id="content"
-              class="materialize-textarea"
+              className="materialize-textarea"
               onChange={this.handleChange}
             ></textarea>
           </div>
