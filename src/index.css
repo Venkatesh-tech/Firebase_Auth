@@ -8,14 +8,16 @@ body {
   font-family: sans-serif;
   background-size: 100%;
   background-position: bottom;
-
   background-color: #95e8f3;
   min-height: 100%;
 }
 
 form {
-  padding: 20px;
-  margin-top: 60px;
+  padding: 50px;
+  margin-top: 120px;
+  margin-bottom: 80px;
+  margin-left: 200px;
+  margin-right: 200px;
 }
 
 form button,
